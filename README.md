@@ -1,1 +1,8 @@
-# Ciencia_Datos_Mod3_S01
+# Sesion 02 : PI de Ciencia de datos
+
+<<<<<<<< HEAD
+Fecha: 19/01/2020
+Tema: Analisis Descriptivos de Datos
+
+Indice
+>>>>>> 
